@@ -20,7 +20,8 @@
  $ bundle _2.3.14_ install 
  ```
  
- Next, migrate the database: ``` 
+ Next, migrate the database: 
+ ``` 
  $ rails db:migrate 
  ```
  Finally, run the test suite to verify that everything is working correctly:
